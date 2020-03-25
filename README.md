@@ -1,2 +1,0 @@
-# giancarlopro.github.io
-
