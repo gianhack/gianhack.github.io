@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Giancarlo Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Giancarlo Rocha`,
+      summary: `who loves programming, playing basketball and beatboxing.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A blog to practice technical and language writing.`,
+    siteUrl: `https://giancarlopro.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ogiancarlopro`,
+      github: `giancarlopro`,
     },
   },
   plugins: [
@@ -79,5 +80,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    'gatsby-plugin-dark-mode',
   ],
 }
