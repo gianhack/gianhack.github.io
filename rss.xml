@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Giancarlo Blog]]></title><description><![CDATA[A blog to practice technical and language writing.]]></description><link>https://giancarlopro.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Mar 2020 21:18:46 GMT</lastBuildDate><item><title><![CDATA[Just a pre-blogging experience]]></title><description><![CDATA[That’s a header test also here and here and here and here and, ok! now i’m done with heading maybe i could use syntax highlight here, can i…]]></description><link>https://giancarlopro.github.io/just-a-pre-blogging-experience/</link><guid isPermaLink="false">https://giancarlopro.github.io/just-a-pre-blogging-experience/</guid><pubDate>Wed, 25 Mar 2020 11:01:03 GMT</pubDate><content:encoded>&lt;h1&gt;That’s a header test&lt;/h1&gt;
+&lt;h2&gt;also here&lt;/h2&gt;
+&lt;h3&gt;and here&lt;/h3&gt;
+&lt;h4&gt;and here&lt;/h4&gt;
+&lt;h5&gt;and here&lt;/h5&gt;
+&lt;h6&gt;and, ok! now i’m done with heading&lt;/h6&gt;
+&lt;p&gt;maybe i could use syntax highlight here, can i?&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;a&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; b&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; a &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; b &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;damm, this worked better than i expected, what about &lt;code class=&quot;language-text&quot;&gt;inline&lt;/code&gt; highligh?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this is a citation
+and it work as expected&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;what else can i do?
+hmmm…&lt;/p&gt;
+&lt;p&gt;IMAGES!!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 512px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD2klEQVQ4y3WUW2xUVRSGDyY+8MCLTxofvNNWqPY61Wgk4IvxEmI1ktpxOm2n01IKCg8gCYpGgxgkpTB3LjOlnaYNDQGaaC0kpbaVS0molWYql9SMGDWxRBrajt3nrOX6d+cMo5aTrOx99uXba61/7W14i0MGvrqikOEtDt+HvqcgeH+DI/LO+rKDnQ2lkUmZU2JmfWkkKWPdMlcp/0uxFnvqisJGum/YnSVNLxy2+2tlQ6KhKMrVuRF2LfezpyDEnsIQu3L87M6JcENhlGXNDVlbYRh3GRlqFmzXBkeM3Xkh3vTSEdWxe1D9OJy0bl6bopvXp2j83C/Utfd7tXl1TLlzg9zkOMreknBLFtTIhAnYprI4V+X5zOjOfnM+pYiZCbCRvut0sfcaJX/6U49ZpsXxLwbNqqd9qqm0netLwr502jJeroVngPVELlmyiS/3T9KONztJNrFz+X5trjwfb3+jg85/fRVg7u+6QrJXpT11GlkCJBAmPMPCk8ERqnxqP7tX+HE6ixgLJv3qlX6ueHwfH2s+R5ZF/PFbXWZtfhhzSYEvM6AmBGh68bD6e07R6MDP5BSYNw2SRf8yjEloIlSQt73aTmjh5YbSVrQeA6UBNeVEhfxsfz1O8EwO0huzYfa/9lqs5pkAWrKBMt9joM6qcgMc+/Qsckd9bT/oXGlIyV1Idlv7bFAbvJOWxKz1JUcwPw5lFMJY92gzdXw5pJN9Oj7GrtwDi0LhmZRUxj5YHaP3V0WpvlhHNGNIwZqNzx/i0NY+qnyyhdp3fceLQQFyiyAflXfy9NQsp2bneWY6xTO3UzQx8ivVFeq0zBm4TrgBKNqhkxNU/uAeju8e/B8UUSDMzWti3N1ynk/4LyLvfOevOZq88odVu1JXQQKidEMUgWhRvm0dpbcf3rs4VLxE3t6T/4rH9rHkn01lUU/4kgmGCPkNysaJu7nl5VY1fWuWbWHuBYX6jc8dZEkPD3SP65x/+Fpc1Rfo+90IUZbiouNuiii6sO8JFfVr8gO6sGOf9GvYcd8F05UTgLe/CesB++pV4PpI0tWZjjGyob2to1z+0FdsC4VDRFE+e2zBs+FTE1SdH5jf6GiDcF4btvA4yKux0dGuoZ17hs07t1MaOnQiQe8+0ULiqX4Y0sbHD1wwF2Bx5DaaecIyj6J8eDXgaZWEv/WVNoXbc2Psd+voZwO07pFmavt8wOqNXTYxhzDhmQ3775u4JGvQKTlNQigoh3JoLDukFa1ZEdZjWgDJmaz1LgILZR5He7CuMLRMoB4pqR7xYFz+Z1C0UosJlAbUtAXAHnsfGP8An71yIvslifEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;One Image&quot;
+        title=&quot;One Image&quot;
+        src=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
+        srcset=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/12f09/gatsby-icon.png 148w,
+/static/4a9773549091c227cd2eb82ccd9c5e3a/e4a3f/gatsby-icon.png 295w,
+/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;and links&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/giancarlopro&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Almost forgot about list&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this&lt;/li&gt;
+&lt;li&gt;is&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;embeded&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;list&lt;/p&gt;
+&lt;ul&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Marked&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;with dot&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Numbered&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
